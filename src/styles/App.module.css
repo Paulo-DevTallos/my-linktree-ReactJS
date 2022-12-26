@@ -1,0 +1,30 @@
+.content {
+	max-width: 800px;
+	margin: 0 auto;
+	color: #fff;
+	height: 100%;
+	text-align: center;
+}
+
+.profile {
+	padding: 60px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.avatar {
+	width: 150px;
+}
+
+.avatar img {
+	width: 100%;
+	border-radius: 100%;
+}
+
+.profile h1 {
+	font-size: 25px;
+	font-weight: 300;
+	margin-top: 20px;
+}
